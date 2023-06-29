@@ -1,1 +1,48 @@
-// Oh hey there
+Let's make a game!
+//indeed
+name:solveacube (name pending)
+by:Rein
+desc:game about solving cubes. currently not working. minimun viable product in progress
+created:26/6/2023
+updated:29/6/2023
+version:1
+Settings
+//not touching this thing
+CSS
+//oh no.
+Layout
+use default
+//maybe doing something with this soon.™️™️™️™️™️™️™️™️™️™️™️™️™️™️™️™️™️™️™️™️™️™️
+Buttons
+*solvecubebut
+name:
+desc:Look at it! A Scrambled Cube! You should solve it.<//><//>Wait, can you?
+on click:
+if methodres is 1
+toast you failde
+if methodres is 2
+do method1 with doingstuffbuttoncantdobld
+Resources
+*methodres
+owned
+*methodchanceres
+*chanceres
+*activiyres
+*method1part1chanceres
+*method1part1timeres
+*method1part2chanceres
+*method1part2timeres
+*method1part3chanceres
+*method1part3timeres
+*method1part4chanceres
+*method1part4timeres
+*method1part5chanceres
+*method1part5timeres
+*method1part6chanceres
+*method1part6timeres
+*method1part7chanceres
+*method1part7timeres
+Buildings
+*doingstuffbuttoncantdobld
+owned
+on method1:
